@@ -21,7 +21,7 @@ public class TimeFormat {
 		}
 		else if (hours == 12)
 		{
-			System.out.println(hours + ":" + Nminutes + " AM");
+			System.out.println(hours + ":" + Nminutes + " PM");
 		}
 		else
 		{
