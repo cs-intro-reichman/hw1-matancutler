@@ -6,3 +6,6 @@ public class NumWords {
 		 (num % 10) + " ones.");
 	}
 }
+
+// I would take out the logic (math computations) to varaibles - int hundreds, int tens, int units...
+// The code is correct, but can be a lot more readable 
