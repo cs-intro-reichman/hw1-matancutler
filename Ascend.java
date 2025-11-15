@@ -14,3 +14,9 @@ public class Ascend {
 		System.out.println(min + " " + mid + " " + max);
 	}
 }
+
+// Great!
+// Optional - if youre always adding 1 to num - a.k.a 'num+1'
+// you can define after line number 5:
+// num = num + 1;
+
