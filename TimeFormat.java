@@ -28,4 +28,7 @@ public class TimeFormat {
 			System.out.println(hours + ":" + Nminutes + " AM");
 		}
 	}
+
 }
+
+// Great job separating the logic for calculating the hours and the minutes :)
